@@ -1,6 +1,6 @@
-## Hi I'm abhinandu
+## Hey I'm abhinandu
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinan6u&color=blue)
-
+📚 Passionate about building dynamic web applications 🚀 
 
 <!--
 **abhinan6u/abhinan6u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
