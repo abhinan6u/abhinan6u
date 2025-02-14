@@ -1,7 +1,10 @@
-## Hey I'm abhinandu
+<div align = "center">
+## Hey I'm abhinandu 👋 
 **_Crafting Web Solutions with Passion!_** 💻🔥  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinan6u&color=blue)
+
+</div>
 
 
 
