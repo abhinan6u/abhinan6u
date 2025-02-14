@@ -1,10 +1,8 @@
-<div align = "center">
-## Hey I'm abhinandu 👋 
-**_Crafting Web Solutions with Passion!_** 💻🔥  
 
+<h1 align="center">Hey I'm abhinandu 👋</h1>
+<h3 align="center">_Crafting Web Solutions with Passion!_** 💻🔥</h3>
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinan6u&color=blue)
 
-</div>
 
 
 
